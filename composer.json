@@ -25,8 +25,9 @@
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal/console": "~1.0",
         "drupal/core": "~8.0",
-        "mespronos/mespronos": "dev-8.x-1.x",
+        "drupal/devel": "^1.0@RC",
         "drush/drush": "~8.0",
+        "mespronos/mespronos": "dev-8.x-1.x",
         "webflo/drupal-finder": "^0.2.1",
         "webmozart/path-util": "^2.3"
     },
