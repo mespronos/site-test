@@ -4,4 +4,14 @@ You can use this repo to quickly build a website to test the module [MesPronos](
 
 ## Instructions
 
-Clone this repository and launch `composer install`. Composer will download drupal core and modules. Once done you can launch Drupal installation.
+Clone this repository and launch `composer install`. 
+
+Composer will download drupal core and modules. Once done you can launch Drupal installation.
+
+## Launch a standalone webserver 
+
+```
+cd web
+drupal server
+```
+
